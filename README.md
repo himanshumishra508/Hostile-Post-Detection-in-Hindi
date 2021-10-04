@@ -1,4 +1,4 @@
-# Hostile-Post-Detection-in-Hindi
+# Hostile-Post-Detection-in-Hindi.
 
 ## Contest Link:
 * Contest Link - https://competitions.codalab.org/competitions/26654
